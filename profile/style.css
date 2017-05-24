@@ -1,0 +1,188 @@
+/* HEADER */
+body{
+  margin: 0px;
+  font-family: "Indie Flower";
+  color: #333;
+}
+
+.header h2 {
+  padding: 0px;
+  margin: 0px;
+  font-family: "Waiting for the Sunrise", Sans-Serif;
+  letter-spacing: 3px;
+  font-size: 32px;
+}
+
+.header {
+  background-color: rgb(153, 26, 24);
+  height: : 20px;
+  width: 100%;
+  margin-left: 0px;
+  margin-top: 0px;
+  text-align: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  color: #EEE;
+  border: 1px solid rgba(0,0,0,0.1);
+  box-shadow: 2px 2px 14px 0px #888;
+  padding: 0px 5px;
+}
+
+.inline li {
+  display: inline-block;
+  padding: 0px 10px;
+}
+
+/* PARTE CENTRAL */
+
+.background {
+  background-image: url("images/spot_me.jpg");
+  background-size: cover;
+  height: 1000px;
+  margin: 0px auto;
+  margin-top: 89px;
+}
+
+/* PROFILE */
+
+.img-circle {
+  border-radius: 25%;
+  border: 1px solid rgba(0,0,0,0.1);
+  box-shadow: 2px 2px 14px 0px #888;
+  margin-right: 30px;
+}
+
+.profile {
+  float: left;
+  text-align: justify;
+  padding: 15px;
+  margin: 150px 10px;
+  margin-left: 40px;
+  background-color: rgba(255,255,255,0.7);
+  max-width: 700px;
+  min-height: 450px;
+  border-radius: 15px;
+}
+
+.profile img {
+  margin: 20px;
+  float: left;
+}
+
+h1 {
+  font-family: "Barrio", Sans-Serif;
+  letter-spacing: 3px;
+  color: rgb(153, 26, 24);
+  font-size: 35px;
+}
+
+.profile h2 {
+  font-family: "Barrio", Sans-Serif;
+  letter-spacing: 3px;
+  font-size: 20px;
+}
+
+.profile p {
+  font-size: 15px;
+  padding-right: 20px;
+}
+
+.clear {
+  clear: both;
+}
+
+.contact {
+  margin-left: 30px;
+  float: left;
+}
+
+.contact h3 {
+  font-family: "Barrio", Sans-Serif;
+  letter-spacing: 3px;
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.contact ul {
+  list-style-type: none;
+  text-align: left;
+  padding-left: 0px;
+}
+
+.contact li {
+  padding: 5px 0px;
+  text-decoration: none;
+}
+
+.contact a {
+  text-decoration: none;
+  color: #333;
+}
+
+.contact a:hover {
+  color: rgb(153, 26, 24);
+}
+
+.follow {
+  float: right;
+  text-align: left;
+  width: 360px;
+}
+
+.follow h3 {
+  font-family: "Barrio", Sans-Serif;
+  letter-spacing: 3px;
+  font-size: 20px;
+  text-decoration: underline;
+}
+
+.follow ul {
+  padding-left: 0px;
+}
+
+.social-media {
+  text-align: center;
+}
+
+.social-media li {
+  padding: 10px 30px;
+}
+
+.social-media a {
+  text-decoration: none;
+  color: #333;
+}
+
+.social-media a:hover {
+  color: rgb(153, 26, 24);
+}
+
+/* PILARS */
+
+.pilar {
+  float: left;
+  text-align: justify;
+  padding: 15px;
+  margin: 100px;
+  margin-top: 150px;
+  margin-right: 10px;
+  background-color: rgba(255,255,255,0.7);
+  max-width: 400px;
+  min-height: 475px;
+  border-radius: 15px;
+}
+
+.pilar h3 {
+  font-family: "Barrio", Sans-Serif;
+  letter-spacing: 3px;
+  font-size: 20px;
+  padding-top: 5px;
+}
+
+.pilar h4 {
+  text-align: center;
+  padding-bottom: 2px;
+}
+
+
